@@ -10,7 +10,7 @@ Atliq Grands owns multiple five-star hotels across India. They have been in the 
 Their revenue management team had decided to hire a 3rd party service provider to provide them insights from their historical data.
 Created following KPI's using DAX -
 
-1.Total Bookings
+1.Total Bookings\n
 2.Total Revenue
 3.Average Rating
 4.Total Capacity
