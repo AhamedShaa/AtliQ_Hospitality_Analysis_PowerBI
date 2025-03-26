@@ -10,21 +10,21 @@ Atliq Grands owns multiple five-star hotels across India. They have been in the 
 Their revenue management team had decided to hire a 3rd party service provider to provide them insights from their historical data.
 Created following KPI's using DAX -
 
-1.Total Bookings___
-2.Total Revenue___
-3.Average Rating
-4.Total Capacity
-5.Total Successful bookings
-6.Occupancy %
-7.Total Cancelled Bookings
-8.Cancellation Rate
-9.Revenue Loss
-10.Total Stay
+1.Total Bookings  
+2.Total Revenue  
+3.Average Rating  
+4.Total Capacity  
+5.Total Successful bookings  
+6.Occupancy %  
+7.Total Cancelled Bookings  
+8.Cancellation Rate   
+9.Revenue Loss  
+10.Total Stay  
 
-Things I learned over here:
+Things I learned over here:  
 
-1.Learnt about telling data driven stories with this beautiful dashboard.
-2.Understanding the business requirement based on the data.
-3.Understanding use of charts and developing DAX measured,
-4.Developing beautiful UI
-5.Giving smart narration to the dashboard.
+1.Learnt about telling data driven stories with this beautiful dashboard.  
+2.Understanding the business requirement based on the data.  
+3.Understanding use of charts and developing DAX measured,  
+4.Developing beautiful UI  
+5.Giving smart narration to the dashboard.  
