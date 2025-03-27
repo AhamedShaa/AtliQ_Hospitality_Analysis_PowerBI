@@ -25,6 +25,4 @@ Things I learned over here:
 
 1.Learnt about telling data driven stories with this beautiful dashboard.  
 2.Understanding the business requirement based on the data.  
-3.Understanding use of charts and developing DAX measured,  
-4.Developing beautiful UI  
-5.Giving smart narration to the dashboard.  
+3.Understanding use of charts and developing DAX measured  
